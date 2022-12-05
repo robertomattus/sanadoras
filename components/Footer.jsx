@@ -16,8 +16,9 @@ const Footer = () => {
         <div className={styles.card}>
           <h1 className={styles.title}>ENCUENTRANOS</h1>
           <p className={styles.text}>
-             Calle Colon entre sur 2 y 8
-            <br /> Colonia centro
+             Calle Colon entre sur 2 y 8 
+            <br /> plaza santa rita, Orizaba 94300
+            <br /> colonia centro
           </p>
         </div>
         <div className={styles.card}>
