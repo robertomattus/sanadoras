@@ -27,6 +27,18 @@ const Footer = () => {
             <br /> 10:00 – 17:00
           </p>
         </div>
+
+        <div className={styles.socialCard}>
+          <h1 className={styles.socialTitule}>SIGUENOS EN REDES SOCIALES</h1>
+          <a 
+            href="https://instagram.com/sanadoras_orizaba?igshid=YTY2NzY3YTc=" 
+            target='_blank'
+            rel='noreferrer'
+          >
+            <Image src="/img/instagram.png" alt="" width="30" height="30"/>
+          </a>
+        </div>
+
       </div>
     </div>
   );
