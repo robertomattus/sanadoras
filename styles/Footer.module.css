@@ -23,7 +23,7 @@
   
   .title {
     font-size: 18px;
-    color: #F4B9A6;
+    color: rgb(211, 211, 211);
   }
   
   .text {
@@ -65,7 +65,7 @@
     }
 
     .socialTitule{
-      color: lightgray;
+      color: rgb(211, 211, 211);
       font-size: 8px;
     }
   }
