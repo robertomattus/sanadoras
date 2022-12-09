@@ -105,12 +105,11 @@
 
     .callButton{
       display: none;
-      background-color: #E09B82;
     }
 
     .whatsApp{
       display: block;
-      background-color: #606060;
+      background-color: #E09B82;
       border-radius: 50%;
       padding: 10px;
       width: 50px;
