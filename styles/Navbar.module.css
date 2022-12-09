@@ -29,7 +29,7 @@
   }
   
   .callButton {
-    background-color: #606060;
+    background-color: #E09B82;
     border-radius: 50%;
     padding: 10px;
     width: 50px;
@@ -42,7 +42,7 @@
   
   .texts {
     margin-left: 20px;
-    color: #606060;
+    color: #E09B82;
   }
   
   .text:first-child {
@@ -62,7 +62,7 @@
     display: flex;
     align-items: center;
     list-style: none;
-    color: #606060;
+    color: #E09B82;
   }
   
   .listItem {
@@ -81,7 +81,7 @@
       width: 20px;
       height: 20px;
       border-radius: 50%;
-      background-color: #606060;
+      background-color: #E09B82;
       padding: 3px;
       display: flex;
       align-items: center;
